@@ -23,3 +23,46 @@ The main objective of this project is to:
 ---
 
 # Algorithm Flow
+
+
+---
+
+# Dataset / Corpus
+
+The input corpus contains simple English words:
+
+
+
+Each word is converted into character-level tokens with an end-of-word symbol.
+
+Example:
+
+
+---
+
+# Technologies Used
+
+- Python
+- Collections Library
+- Dictionary Data Structures
+
+---
+
+# Implementation Steps
+
+## 1. Corpus Selection
+
+A small text corpus is manually created inside the Python program.
+
+Example:
+
+```python
+[
+"low",
+"lower",
+"lowest",
+"new",
+"newer",
+"widest"
+]
+
